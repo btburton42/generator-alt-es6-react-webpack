@@ -1,0 +1,29 @@
+{
+  "name": "generator-gulp-coffee-mocha-testem",
+  "version": "0.1.3",
+  "description": "Generates a bare bones app skeleton using alt, es6, react and webpack",
+  "preinstall": "npm install -g yo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btburton42/generator-gulp-coffee-mocha-testem"
+  },
+  "keywords": [
+    "alt",
+    "es6",
+    "react",
+    "webpack",
+    "scaffold",
+    "frontend",
+    "yeoman-generator",
+    "tdd"
+  ],
+  "author": "Tyler Burton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btburton42/generator-gulp-coffee-mocha-testem/issues"
+  },
+  "homepage": "https://github.com/btburton42/generator-gulp-coffee-mocha-testem",
+  "dependencies": {
+    "yeoman-generator": "^0.17.3"
+  }
+}

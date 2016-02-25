@@ -13,8 +13,8 @@ A simple SPA scaffold that uses:
 
 ####Initialize the project from within your empty project directory
 ```
-yo react-webpack-es6
+yo es6-react-redux-webpack
 ```
 
 ###Issues and caveats
-* For the time being the project inherits the name of the project directory. It capitalizes this for creation of the class object.
+* For the time being the project inherits the name of the project directory. It capitalizes this for creation of the class object.      

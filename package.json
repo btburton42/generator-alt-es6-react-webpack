@@ -1,5 +1,5 @@
 {
-  "name": "generator-gulp-coffee-mocha-testem",
+  "name": "generator-es6-react-redux-webpack",
   "version": "0.1.3",
   "description": "Generates a bare bones app skeleton using alt, es6, react and webpack",
   "preinstall": "npm install -g yo",
@@ -8,7 +8,7 @@
     "url": "https://github.com/btburton42/generator-gulp-coffee-mocha-testem"
   },
   "keywords": [
-    "alt",
+    "redux",
     "es6",
     "react",
     "webpack",
@@ -20,10 +20,11 @@
   "author": "Tyler Burton",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/btburton42/generator-gulp-coffee-mocha-testem/issues"
+    "url": "https://github.com/btburton42/generator-es6-react-redux-webpack/issues"
   },
-  "homepage": "https://github.com/btburton42/generator-gulp-coffee-mocha-testem",
+  "homepage": "https://github.com/btburton42/generator-es6-react-redux-webpack",
   "dependencies": {
-    "yeoman-generator": "^0.17.3"
+    "lodash": "^4.5.1",
+    "yeoman-generator": "^0.22.5"
   }
 }
